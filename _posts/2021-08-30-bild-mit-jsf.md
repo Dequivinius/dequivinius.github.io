@@ -1,3 +1,8 @@
+---
+layout: post
+title: Mein Titel
+---
+
 
 # Wie erstelle ich ein Bild mit JSF?
 
